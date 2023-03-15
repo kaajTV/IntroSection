@@ -8,3 +8,7 @@
   margin: 0;
   font-family: "Epilogue", sans-serif;
 }
+
+body {
+  max-height: 100vh;
+}
