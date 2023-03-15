@@ -3,7 +3,7 @@
 import { Navbar } from '../components';
 
 const Home = () => (
-  <div className="bg-black h-screen">
+  <div className="h-screen">
     <Navbar />
   </div>
 );
