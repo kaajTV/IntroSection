@@ -70,8 +70,8 @@ const Navbar = () => (
                             </ul>
                         </div>
                     </div>
-                    <div className="flex gap-4">
-                        <li>
+                    <div className="flex gap-10">
+                        <li className="ml-4">
                             <a href="#" className="text-gray-100 font-medium text-lg cursor-pointer">
                                 Careers
                             </a>
